@@ -6,10 +6,10 @@ Your contribution to the community is undeniably valuable and deeply appreciated
 https://johann.loefflmann.net/en/software/jarfix/index.html
 
 
-clone the project
-cd simple-fx-app
+clone the project  
+cd simple-fx-app  
 mvn clean package exex:java
 
-or, run the build jar as below,
-    java -jar simple-fx-app.jar
-    or, javaw -jar simple-fx-app.jar
+or, run the build jar as below,  
+java -jar simple-fx-app.jar  
+or, javaw -jar simple-fx-app.jar
