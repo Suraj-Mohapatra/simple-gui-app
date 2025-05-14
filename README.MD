@@ -13,3 +13,5 @@ mvn clean package exex:java
 or, run the build jar as below,  
 java -jar simple-fx-app.jar  
 or, javaw -jar simple-fx-app.jar
+
+best way, download the jarfix tool and run it as an administrator. Boom, now you can double click on the jar to run.
