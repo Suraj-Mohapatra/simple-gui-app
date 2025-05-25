@@ -8,7 +8,7 @@ https://johann.loefflmann.net/en/software/jarfix/index.html
 
 clone the project  
 cd simple-fx-app  
-mvn clean package exex:java
+mvn clean package exec:java
 
 or, run the build jar as below,  
 java -jar simple-fx-app.jar  
