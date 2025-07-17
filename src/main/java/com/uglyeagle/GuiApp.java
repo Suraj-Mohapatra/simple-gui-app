@@ -16,7 +16,7 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.UIManager;
 
-public class FxApp {
+public class GuiApp {
 
     public static void main(String[] args) {
         System.out.println("enters main");
