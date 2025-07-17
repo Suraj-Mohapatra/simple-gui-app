@@ -2,16 +2,16 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.uglyeagle</groupId>
-    <artifactId>simple-fx-app</artifactId>
+    <artifactId>simple-gui-app</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
-    <name>simple-fx-app</name>
+    <name>simple-gui-app</name>
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
-        <mainClass>com.uglyeagle.FxApp</mainClass>
+        <mainClass>com.uglyeagle.GuiApp</mainClass>
     </properties>
     
     <build>
@@ -77,7 +77,7 @@
                 </executions>-->
             </plugin>
         </plugins>
-        <finalName>simple-fx-app</finalName>   
+        <finalName>simple-gui-app</finalName>   
     </build>
     
 </project>
